@@ -1,0 +1,18 @@
+title: ""
+email: ""
+description: >- 
+baseurl: ""
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+plugins:
+
+# Build settings
+markdown: kramdown
+exclude:
+    - Gemfile
+    - Gemfile.lock
+
+include:
+
+# store empty array to use as a convenience
+emptyArray: []
