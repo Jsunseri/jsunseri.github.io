@@ -17,6 +17,12 @@ which the music should complement but not overshadow), I've provided a
 parenthetical note that music suggested in any of these sections could be
 appropriate for any of the others. 
 
+In general I've just recorded samples of each song, around 30 seconds to a
+minute, to give you a feel for what it sounds like. Please excuse pauses for
+page turns, minor mistakes, etc. - I'm just trying to quickly give you an idea
+of what these sound like! If I have time I'll gradually update these to be more
+polished, complete recordings of the full pieces. 
+
 # Musical Prelude
 You probably want 20-30 minutes of music to provide some background as guests
 arrive. IMO this stuff can be more interesting/attention-getting than what's
@@ -29,7 +35,9 @@ Danielle used to play this frequently, which is part of the reason I think
 it would be especially nice as part of the prelude. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A7sLEFVfAyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Minuet from Partita No. 1 - J.S. Bach 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1dYTvI7NXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Rustle of Spring - Sinding 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zZ1xBZTPzBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Polish Dance - Scharwenka 
 ### Spring Song - Mendelssohn 
 ### Variations on the Kanon by Pachelbel 
