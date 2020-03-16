@@ -52,6 +52,7 @@ it would be especially nice as part of the prelude.
 
 # Seating of Mothers
 ### Butterfly Waltz - Brian Cain 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KOZfnq917OI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Sheep May Safely Graze - Bach 
 ### Comptine D’un Autre Ete - Yann Tiersen 
 (Or similar options from the other sections)
@@ -70,6 +71,7 @@ Usually some kind of fanfare. Some suggestions:
 ### Largo - Handel 
 ### Trumpet Voluntary - Clarke 
 ### Trumpet Tune - Purcell 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yrJr-xrjkC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Trumpet Voluntary - Stanley 
 
 # Unity Ceremony 
@@ -89,7 +91,7 @@ me to play something here, that's fine too.
 
 # Recessional
 Something jubilant. Here are some suggestions:
-### Merry-Go - Round of Life 
+### Merry-Go-Round of Life - Joe Hisaishi
 ### Hornpipe - Handel
 ### Allegro from Toccata in G Major - Bach 
 ### Wedding March - Mendelssohn 
@@ -102,6 +104,7 @@ used elsewhere. If you're having a receiving line nearby, I'd probably just
 keep playing while that's going on. Here are some ideas, but really anything
 not selected in the previous sectiosn could go here, as well as many other
 things. 
+### Always With Me - Joe Hisaishi
 ### Musetta’s Waltz - Puccini 
 ### How Great Thou Art
 ### Fly Me To the Moon 
