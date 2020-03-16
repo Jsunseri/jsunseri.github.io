@@ -18,7 +18,7 @@ Hey guys! Here's some suggested wedding music for your ceremony.
 ### Spring Song - Mendelssohn 
 ### Variations on the Kanon by Pachelbel 
 ### Claire de Lune - Debussy 
-### Rydia/Tenderness in the Air/Mystic Forest 
+### Rydia/Tenderness in the Air/Mystic Forest - Final Fantasy OST
 
 # Honorary Seating
 ### Angel Eyes - Jim Brickman 
@@ -30,9 +30,9 @@ Hey guys! Here's some suggested wedding music for your ceremony.
 ### Comptine D’un Autre Ete - Yann Tiersen 
 
 # Processional
-### Canon in D 
-### Jesu Joy of Man’s Desiring 
-### Ave Maria 
+### Canon in D - Pachelbel
+### Jesu Joy of Man’s Desiring - Bach
+### Ave Maria - Gounod
 
 # Entrance of the Bride
 ### Fanfare Canon in D - Jennifer Cook 
@@ -49,8 +49,8 @@ Hey guys! Here's some suggested wedding music for your ceremony.
 # The Lord’s Prayer 
 
 # Recessional
-### Merry-Go-Round of Life 
-### "Hornpipe" 
+### Merry-Go - Round of Life 
+### Hornpipe - Handel
 ### Allegro from Toccata in G Major - Bach 
 ### Wedding March - Mendelssohn 
 ### Polonaise Op. 40 No.1 - Chopin 
