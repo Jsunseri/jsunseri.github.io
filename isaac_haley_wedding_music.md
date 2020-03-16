@@ -34,9 +34,9 @@ it would be especially nice as part of the prelude.
 ### Spring Song - Mendelssohn 
 ### Variations on the Kanon by Pachelbel 
 ### Claire de Lune - Debussy 
-### Rydia - FFIV OST
-### Tenderness in the Air - FFV OST
-### Mystic Forest - FFIV OST
+### Rydia - Nobuo Uematsu
+### Tenderness in the Air - Nobuo Uematsu
+### Mystic Forest - Nobuo Uematsu
 
 # Honorary Seating
 ### Angel Eyes - Jim Brickman 
