@@ -39,7 +39,8 @@ it would be especially nice as part of the prelude.
 <!-- <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyse?queue-enable=false" allowfullscreen allow="autoplay"></iframe> -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y1dYTvI7NXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Rustle of Spring - Sinding 
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyt0?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://player.vimeo.com/video/398159549" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<!-- <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyt0?queue-enable=false" allowfullscreen allow="autoplay"></iframe> -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ1xBZTPzBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
 ### Polish Dance - Scharwenka 
 ### Spring Song - Mendelssohn 
@@ -55,7 +56,8 @@ it would be especially nice as part of the prelude.
 
 # Seating of Mothers
 ### Butterfly Waltz - Brian Cain 
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqysr?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://player.vimeo.com/video/398160173" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<!-- <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqysr?queue-enable=false" allowfullscreen allow="autoplay"></iframe> -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/KOZfnq917OI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 ### Sheep May Safely Graze - Bach 
 ### Comptine D’un Autre Ete - Yann Tiersen 
