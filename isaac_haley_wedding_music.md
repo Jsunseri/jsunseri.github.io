@@ -52,6 +52,7 @@ it would be especially nice as part of the prelude.
 
 # Seating of Mothers
 ### Butterfly Waltz - Brian Cain 
+<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqysr" allowfullscreen allow="autoplay"></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KOZfnq917OI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Sheep May Safely Graze - Bach 
 ### Comptine D’un Autre Ete - Yann Tiersen 
@@ -92,6 +93,7 @@ me to play something here, that's fine too.
 # Recessional
 Something jubilant. Here are some suggestions:
 ### Merry-Go-Round of Life - Joe Hisaishi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66GZEYc1Bt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Hornpipe - Handel
 ### Allegro from Toccata in G Major - Bach 
 ### Wedding March - Mendelssohn 
