@@ -33,14 +33,14 @@ pieces should do it; here are some suggestions:
 ### Adagio Cantabile from Sonata Pathetique - Beethoven
 Danielle used to play this frequently, which is part of the reason I think
 it would be especially nice as part of the prelude. 
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqysz?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
-/*<iframe width="560" height="315" src="https://www.youtube.com/embed/A7sLEFVfAyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*/
+<! --<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqysz?queue-enable=false" allowfullscreen allow="autoplay"></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7sLEFVfAyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Minuet from Partita No. 1 - J.S. Bach 
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyse?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
-/*<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1dYTvI7NXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*/
+<!-- <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyse?queue-enable=false" allowfullscreen allow="autoplay"></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1dYTvI7NXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Rustle of Spring - Sinding 
 <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyt0?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
-/*<iframe width="560" height="315" src="https://www.youtube.com/embed/zZ1xBZTPzBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*/
+<! ––<iframe width="560" height="315" src="https://www.youtube.com/embed/zZ1xBZTPzBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>––> 
 ### Polish Dance - Scharwenka 
 ### Spring Song - Mendelssohn 
 ### Variations on the Kanon by Pachelbel 
@@ -56,7 +56,7 @@ it would be especially nice as part of the prelude.
 # Seating of Mothers
 ### Butterfly Waltz - Brian Cain 
 <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqysr?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
-/*<iframe width="560" height="315" src="https://www.youtube.com/embed/KOZfnq917OI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*/
+<! ––<iframe width="560" height="315" src="https://www.youtube.com/embed/KOZfnq917OI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>––> 
 ### Sheep May Safely Graze - Bach 
 ### Comptine D’un Autre Ete - Yann Tiersen 
 (Or similar options from the other sections)
@@ -75,8 +75,8 @@ Usually some kind of fanfare. Some suggestions:
 ### Largo - Handel 
 ### Trumpet Voluntary - Clarke 
 ### Trumpet Tune - Purcell 
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyt9?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
-/*<iframe width="560" height="315" src="https://www.youtube.com/embed/yrJr-xrjkC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*/
+<!-- <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyt9?queue-enable=false" allowfullscreen allow="autoplay"></iframe>-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yrJr-xrjkC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Trumpet Voluntary - Stanley 
 
 # Unity Ceremony 
@@ -97,8 +97,9 @@ me to play something here, that's fine too.
 # Recessional
 Something jubilant. Here are some suggestions:
 ### Merry-Go-Round of Life - Joe Hisaishi
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqys7?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
-/*<iframe width="560" height="315" src="https://www.youtube.com/embed/66GZEYc1Bt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*/
+<iframe src="https://player.vimeo.com/video/398128982" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<!-- <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqys7?queue-enable=false" allowfullscreen allow="autoplay"></iframe> -->
+<!–– <iframe width="560" height="315" src="https://www.youtube.com/embed/66GZEYc1Bt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>––> 
 ### Hornpipe - Handel
 ### Allegro from Toccata in G Major - Bach 
 ### Wedding March - Mendelssohn 
