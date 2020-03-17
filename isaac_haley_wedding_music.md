@@ -12,7 +12,7 @@ except the prelude and postlude, just one piece should suffice (and we probably
 won't even make it through most of that).
 
 For sections where I've just suggested something I feel is quiet and pretty
-(providing a meditative sonic background to something important happening,
+(providing a meditative background to something important happening,
 which the music should complement but not overshadow), I've provided a
 parenthetical note that music suggested in any of these sections could be
 appropriate for any of the others. 
@@ -27,7 +27,7 @@ polished, complete recordings of the full pieces.
 You probably want 20-30 minutes of music to provide some background as guests
 arrive. IMO this stuff can be more interesting/attention-getting than what's
 used during the ceremony itself (where I have mostly suggested things that are
-pretty and inobtrusive), but it should probably be more reflective and placid
+pretty and unobtrusive), but it should probably be more reflective and placid
 than the more energetic things that can happen in the postlude. Around 4 or 5
 pieces should do it; here are some suggestions:
 ### Adagio Cantabile from Sonata Pathetique - Beethoven
