@@ -44,14 +44,20 @@ it would be especially nice as part of the prelude.
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ1xBZTPzBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
 ### Polish Dance - Scharwenka 
 ### Spring Song - Mendelssohn 
-### Variations on the Kanon by Pachelbel 
+### Variations on the Kanon by Pachelbel - George Winston
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T5Nx1zBBPxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Claire de Lune - Debussy 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cdevcp6Hlvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Rydia - Nobuo Uematsu
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xldDpMdm7LU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Tenderness in the Air - Nobuo Uematsu
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qEXcW3IIp2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Mystic Forest - Nobuo Uematsu
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gbhw6_zlHN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Honorary Seating
 ### Angel Eyes - Jim Brickman 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJFmqPBdIn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (Or similar options from the other sections)
 
 # Seating of Mothers
@@ -60,7 +66,9 @@ it would be especially nice as part of the prelude.
 <!-- <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqysr?queue-enable=false" allowfullscreen allow="autoplay"></iframe> -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/KOZfnq917OI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 ### Sheep May Safely Graze - Bach 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HQx9ehtJQAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Comptine D’un Autre Ete - Yann Tiersen 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6YoKCQNGvaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (Or similar options from the other sections)
 
 # Processional
