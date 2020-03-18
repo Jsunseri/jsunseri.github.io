@@ -76,7 +76,9 @@ For everyone who enters before the bride; usually something happy and pretty
 but lyrical and not as dramatic as what accompanies the bride's procession.
 Examples:
 ### Canon in D - Pachelbel
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uKgu0IqXo3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Jesu Joy of Man’s Desiring - Bach
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p-JarnvNEQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Ave Maria - Gounod
 
 # Entrance of the Bride
@@ -112,7 +114,9 @@ Something jubilant. Here are some suggestions:
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/66GZEYc1Bt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 ### Hornpipe - Handel
 ### Allegro from Toccata in G Major - Bach 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gmpw2aIUeR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Wedding March - Mendelssohn 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RIHozXpA0Eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Polonaise Op. 40 No.1 - Chopin 
 
 # Postlude
