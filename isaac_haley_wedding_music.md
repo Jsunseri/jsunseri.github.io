@@ -42,6 +42,8 @@ it would be especially nice as part of the prelude.
 <iframe src="https://player.vimeo.com/video/398159549" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <!-- <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyt0?queue-enable=false" allowfullscreen allow="autoplay"></iframe> -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/zZ1xBZTPzBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
+### Nocturne in E Flat Major - Chopin
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T83PbWahQbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Polish Dance - Scharwenka 
 ### Spring Song - Mendelssohn 
 ### Variations on the Kanon by Pachelbel - George Winston
@@ -80,12 +82,16 @@ Examples:
 ### Jesu Joy of Man’s Desiring - Bach
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p-JarnvNEQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Ave Maria - Gounod
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nemxbY6HPrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Entrance of the Bride
 Usually some kind of fanfare. Some suggestions:
 ### Fanfare Canon in D - Jennifer Cook 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iNqeLe4dH1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Largo - Handel 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ypIaa6oMJ2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Trumpet Voluntary - Clarke 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/72-lQGgc4Pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Trumpet Tune - Purcell 
 <!-- <iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7sqyt9?queue-enable=false" allowfullscreen allow="autoplay"></iframe>-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yrJr-xrjkC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -93,7 +99,9 @@ Usually some kind of fanfare. Some suggestions:
 
 # Unity Ceremony 
 ### Ave Maria - Schubert 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S7zMGQKZ3Sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### River Flows in You - Yiruma 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/61zeSOVbiBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (Or similar options from the other sections)
 
 # The Lord’s Prayer 
@@ -124,13 +132,17 @@ You'll probably want some music afterwards as people file out, to keep the mood
 up. I think what happens here can be more fun, casual, and relaxed than what's
 used elsewhere. If you're having a receiving line nearby, I'd probably just
 keep playing while that's going on. Here are some ideas, but really anything
-not selected in the previous sectiosn could go here, as well as many other
+not selected in the previous sections could go here, as well as many other
 things. 
 ### Always With Me - Joe Hisaishi
+<iframe src="https://player.vimeo.com/video/399736205" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ### Musetta’s Waltz - Puccini 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/syky6Rolyw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### How Great Thou Art
 ### Fly Me To the Moon 
 ### It Had to Be You 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-JSUadFv6zQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Over the Rainbow 
 ### The Prayer 
 ### The Rose 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JF95AmxTYKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
